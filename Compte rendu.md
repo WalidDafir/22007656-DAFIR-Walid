@@ -1,6 +1,6 @@
 ## Photo personnelle
 
-<Photo pro.png" style="height:464px;margin-right:432px"/>
+<img src="Photo pro.png" style="height:464px;margin-right:432px"/>
 
 *Numéro d'étudiant* : 22007656
 
