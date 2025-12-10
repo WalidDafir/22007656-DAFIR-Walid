@@ -1,3 +1,11 @@
+## Photo personnelle
+
+<Photo pro.png" style="height:464px;margin-right:432px"/>
+
+*Numéro d'étudiant* : 22007656
+
+*Classe* : CAC1
+
 # 📊 Compte Rendu de l’Analyse de la Base de Données  
 ### À partir du notebook : *Consommation_Electrique_avec_Pandas_*
 
